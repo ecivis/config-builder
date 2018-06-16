@@ -1,7 +1,7 @@
 {
     "name":"Config Builder",
     "author":"Joseph lamoree <jlamoree@ecivis.com>",
-    "version":"1.0.0",
+    "version":"1.0.1",
     "slug":"config-builder",
     "type":"modules",
     "location":"ecivis/config-builder",

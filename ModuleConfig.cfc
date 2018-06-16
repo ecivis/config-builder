@@ -4,7 +4,7 @@ component {
     this.author = "Joseph Lamoree";
     this.webURL = "https://github.com/ecivis/config-builder";
     this.description = "A custom DSL for fetching nested configuration information.";
-    this.version = "1.0.0";
+    this.version = "1.0.1";
     this.dependencies = [];
     this.autoMapModels = false;
 
