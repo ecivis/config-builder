@@ -1,0 +1,40 @@
+{
+    "name":"Config Builder",
+    "author":"Joseph lamoree <jlamoree@ecivis.com>",
+    "version":"1.0.0",
+    "slug":"config-builder",
+    "type":"modules",
+    "location":"ecivis/config-builder",
+    "homepage":"https://github.com/ecivis/config-builder",
+    "documentation":"https://github.com/ecivis/config-builder",
+    "repository":{
+        "type":"git",
+        "url":"https://github.com/ecivis/config-builder"
+    },
+    "shortDescription":"A ColdBox Module that provides a custom DSL for fetching nested configuration information.",
+    "bugs":"https://github.com/ecivis/config-builder/issues",
+    "engines":[
+        {
+            "type":"lucee",
+            "version":">=5.0"
+        }
+    ],
+    "license":[
+        {
+            "type":"MIT",
+            "url":""
+        }
+    ],
+    "dependencies":{
+
+    },
+    "devDependencies":{
+
+    },
+    "ignore":[
+        "**/.*"
+    ],
+    "installPaths":{
+
+    }
+}
